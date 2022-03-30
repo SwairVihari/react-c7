@@ -605,10 +605,187 @@ const LandingPage = () => {
 
         <Row>
         <Col sm={12} xs={12} lg={12} >
-        <Image  src='/image/au/gregan/side1.png'/>
+        <Image src='/image/au/gregan/side1.png'/>
+
+        <p>
+        "I've been using Immediate Edge for just over 2 weeks, I've taken my initial deposit from AU$350 to AU$5,802. That is far more than I make at work."
+        </p>
+        <p className={Styles.bold}>
+        Kyle McLennan
+        </p>
+
+        <p className={Styles.bold}>
+        Subiaco, WA
+        </p>
         </Col>
       </Row>
-        
+
+      <p>
+        PROFIT: AU$9,200
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side1.png'/>
+
+        <p>
+        "I've hit over AU$9,200 in profit after just a month of using Immediate Edge. Because I can use it on my laptop, I've been travelling around Australia and making money the whole time!"
+        </p>
+        <p className={Styles.bold}>
+        Jonathan Morris
+        </p>
+
+        <p className={Styles.bold}>
+        Willunga, SA
+        </p>
+        </Col>
+      </Row>
+
+      <p>
+      PROFIT: AU$22,219
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side3.png'/>
+
+        <p>
+        "It's so damn easy to use, even for me! I've never traded before, but I'm making AU$3,000+ a week and loving life!"
+        </p>
+        <p className={Styles.bold}>
+        Lilly Peterson
+        </p>
+
+        <p className={Styles.bold}>
+        Rockhampton, QLD
+        </p>
+        </Col>
+      </Row>
+
+      <p>
+      PROFIT: AU$41,943
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side4.png'/>
+
+        <p>
+        "I've been able to finally quit my job, thanks entirely to Immediate Edge. I've made so much, so easily!"
+        </p>
+        <p className={Styles.bold}>
+        Fredic Paul
+        </p>
+
+        <p className={Styles.bold}>
+        Perth, WA
+        </p>
+        </Col>
+      </Row>
+
+      <p>
+      PROFIT: AU$7,521
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side5.png'/>
+
+        <p>
+        "Iv'e only been using the Immediate Edge for 2 weeks and it has already paid for my European holiday."
+        </p>
+        <p className={Styles.bold}>
+        Julia Keaton
+        </p>
+
+        <p className={Styles.bold}>
+        Werribee, VIC
+        </p>
+        </Col>
+      </Row>
+
+      <p>
+      PROFIT: AU$58,744
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side6.png'/>
+
+        <p>
+        "I teamed up with my best friends and together we've hit the jackpot after just 3 weeks. The trading robot does all the work for you. Together we've made over AU$17,000 a week"
+        </p>
+        <p className={Styles.bold}>
+        Jordan Moss & Travis Parks
+        </p>
+
+        <p className={Styles.bold}>
+        Essendon, VIC
+        </p>
+        </Col>
+      </Row>
+
+
+      <p>
+      PROFIT: AU$12,301
+        </p>
+
+        <Row>
+        <Col sm={12} xs={12} lg={12} >
+        <Image src='/image/au/gregan/side7.png'/>
+
+        <p>
+        "My Boyfriend was the one who told me about Immediate Edge and it has changed my live. I've been making over AU$2,000 a week for over a month, with less than 30 minutes of work a day"
+        </p>
+        <p className={Styles.bold}>
+        Brianna Wiggans
+        </p>
+
+        <p className={Styles.bold}>
+        Tamworth, NSW
+        </p>
+        </Col>
+      </Row>
+
+        </Col>
+      </Row>
+
+      <Row>
+        <Col>
+        <p className={Styles.bold}>
+        Follow the 3 Simple Steps To Get Started:
+        </p>
+        </Col>
+      </Row>
+
+      <Row>
+        <Col>
+        <Image src='/image/au/gregan/checkmark.png'/> Step 1:
+       
+       <p>
+       Sign up for your free account
+       </p>
+
+       <Image className={Styles.sen3main} src='/image/au/gregan/step1__.png'/>
+
+       <Image src='/image/au/gregan/checkmark.png'/> Step 2:
+       
+       <p>
+       Deposit the mininum of $350 AUD
+       </p>
+
+       <Image className={Styles.sen3main} src='/image/au/gregan/bittrader-step2.png'/>
+
+       <Image src='/image/au/gregan/checkmark.png'/> Step 3:
+       
+       <p>
+       Withdrawl profits to your bank!
+       </p>
+
+       <Image className={Styles.sen3main} src='/image/au/gregan/bittrader-step3.png'/>
+
+       
+
         </Col>
       </Row>
 
