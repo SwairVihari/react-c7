@@ -1,0 +1,40 @@
+.border{
+    border: 2px solid red;
+    
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.overflow{
+    overflow-x: hidden;
+    width: 100vh;
+}
+
+.breackingNews{
+    height: 50px;
+    width: 150px;
+}
+
+.date{
+    font-size: 0.8rem;
+    color: grey;
+    display: block;
+    display: flex;
+    justify-content: flex-end;
+    margin: 15px 10px;
+}
+
+.sen3main{
+    width: 100%;
+}
+
+.sen3mainText{
+    margin-top: 0px;
+    text-align: center;
+}
